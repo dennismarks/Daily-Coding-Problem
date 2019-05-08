@@ -1,4 +1,4 @@
-def largest_sum_of_non_adjacents(A):
+def largest_sum_of_non_adjacents(A) -> int:
     """
     Given a list of integers, write a function that returns the largest sum
     of non-adjacent numbers. Numbers can be 0 or negative.
